@@ -1,11 +1,11 @@
 {
   "folders": [
     {
-      "path": "/Volumes/YMTC PC300/Code/dotnetcode/subfolder1",
+      "path": "subfolder1",
       "name": "Current Directory"
     },
     {
-      "path": "/Volumes/YMTC PC300/Code/dotnetcode/subfolder2",
+      "path": "subfolder2",
       "name": "Parent Directory"
     }
   ]
